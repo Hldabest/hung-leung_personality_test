@@ -1,5 +1,6 @@
 # hung-leung_personality_test
-This project is to help people understand more about themselves
+#This project is to help people understand more about themselves
+
 print("Title of program: Hung Leung personality test")
 print()
 print("Welcome to the test! Please answer the following questions truthfully and you'll learn more about yourself!")
@@ -10,7 +11,7 @@ happy1 = input("I am happy every day!")
 happy2 = input("I am grateful for what I have now")
 sad1 = input("I am always sad")
 sad2= input("I am having a tough time in life now")
-extrovert1 = input("I love to meet new people)
+extrovert1 = input("I love to meet new people")
 extrovert2 = input("At parties, I usually talk to strangers")
 introvert1 = input("I rarely attempt to meet new people")
 introvert2 = input("I only talk to my close friends")

@@ -10,7 +10,7 @@ print()
 happy1 = input("I am happy every day!")
 happy2 = input("I am grateful for what I have now")
 sad1 = input("I am always sad")
-sad2= input("I am having a tough time in life now")
+sad2 = input("I am having a tough time in life now")
 extrovert1 = input("I love to meet new people")
 extrovert2 = input("At parties, I usually talk to strangers")
 introvert1 = input("I rarely attempt to meet new people")
@@ -20,6 +20,8 @@ happy_final = int(happy1) + int(happy2)
 sad_final = int(sad1) + int(sad2)
 extrovert_final = int(extrovert1) + int(extrovert2)
 introvert_final = int(introvert1) + int(introvert2)
+
+print()
 
 if happy_final > sad_final:
   print("you are a happy person")
